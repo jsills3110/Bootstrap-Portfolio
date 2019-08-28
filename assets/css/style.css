@@ -1,10 +1,9 @@
-.backgroundjess {
-    background-image: url("../images/full-bloom.png");
-}
-
 body {
+    position: relative;
+    min-height: 100vh;
+    height: 100%;
     /* Margin bottom by footer height */
-    margin-bottom: 58px;
+    background-image: url("../images/full-bloom.png");
 }
 
 hr {
