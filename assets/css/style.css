@@ -17,8 +17,8 @@ hr {
 /*Set the top and bottom margin of the main content so that it doesn't overlap with 
   the header or touch the footer.*/
 .main-content {
-    margin-top: 7%;
-    margin-bottom: 8%;
+    margin-top: 6.625rem;
+    margin-bottom: 6.625rem;
 }
 
 /*Set a sticky footer.*/
